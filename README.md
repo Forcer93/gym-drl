@@ -7,3 +7,4 @@ This repo is based on Nicholas Renotte's YouTube video on RL techniques using fo
 
 - Nicholas Renotte's Tutorial: https://www.youtube.com/watch?v=Mut_u40Sqz4&t=2310s&ab_channel=NicholasRenotte
 - OpenAI's Gymnasium (formerly Gym): https://github.com/Farama-Foundation/Gymnasium
+- DeepMaz Environment for Pathfinding Challenges: https://github.com/cair/deep_maze
